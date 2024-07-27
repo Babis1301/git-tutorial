@@ -1,2 +1,2 @@
-console.log("configwwwww.js")
-console.log("versionwww11")
+console.log("conwefigwwwww.js")
+console.log("vewerrsionwww11")
